@@ -1,0 +1,28 @@
+{
+  "name": "senhor_dos_aneis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "dev": "gulp watch",
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sulivan7/senhor_dos_aneis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sulivan7/senhor_dos_aneis/issues"
+  },
+  "homepage": "https://github.com/Sulivan7/senhor_dos_aneis#readme",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^6.0.0",
+    "sass": "^1.83.4"
+  }
+}
